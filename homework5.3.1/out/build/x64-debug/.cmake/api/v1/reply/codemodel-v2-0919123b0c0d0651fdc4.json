@@ -1,0 +1,143 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "homework5.3.1",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-homework5.3.1-Debug-ef6ab33c3cab53359070.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "homework5.3.1",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "homework5.3.1/catch2",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-homework5.3.1.catch2-Debug-aab8dd8eecf4235a9004.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "homework5.3.1/catch2"
+				},
+				{
+					"build" : "homework5.3.1/catch2/src",
+					"jsonFile" : "directory-homework5.3.1.catch2.src-Debug-2cb1406dc763e6998dfd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "homework5.3.1/catch2/src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "homework5.3.1",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Catch2::@9c85f107c731db817fe7",
+					"jsonFile" : "target-Catch2-Debug-90f31d8b43348a562337.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Catch2WithMain::@9c85f107c731db817fe7",
+					"jsonFile" : "target-Catch2WithMain-Debug-01e9e75413feddde5fd4.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "homework5.3.1::@a2b444046e58db093ff5",
+					"jsonFile" : "target-homework5.3.1-Debug-963f282d46d080b1ff98.json",
+					"name" : "homework5.3.1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug",
+		"source" : "D:/homeworks/homework5.3/homework5.3.1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

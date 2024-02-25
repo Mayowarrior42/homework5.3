@@ -1,0 +1,11 @@
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/CMakeFiles/homework5.3.1.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/CMakeFiles/edit_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/CMakeFiles/rebuild_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/CMakeFiles/edit_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/CMakeFiles/rebuild_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/src/CMakeFiles/Catch2.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/src/CMakeFiles/Catch2WithMain.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/src/CMakeFiles/edit_cache.dir
+D:/homeworks/homework5.3/homework5.3.1/out/build/x64-debug/homework5.3.1/catch2/src/CMakeFiles/rebuild_cache.dir
